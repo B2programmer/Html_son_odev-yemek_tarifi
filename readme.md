@@ -1,2 +1,2 @@
 # HTML konusu son Ödev.
-[https://i.hizliresim.com/7pb824k.png]()
+[](https://i.hizliresim.com/7pb824k.png)
